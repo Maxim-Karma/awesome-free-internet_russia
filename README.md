@@ -4,5 +4,5 @@
 [`V2RayTun`](https://v2raytun.me/) - IOS(+MacOS)/Android/Windows;\
 [`V2rayN`](https://v2rayn.xyz/), [`Nekoray`](https://nekoray.org)/[`Throne`](https://github.com/throneproj/Throne) - Windows, MacOS/Linux, Windows;\
 [`V2rayNG`](https://github.com/2dust/v2rayNG), [`Nekobox`](https://getnekobox.com/) - Android;\
-Happ - IOS(+MacOS)/Android/Windows;\
-Hiddify - IOS/Android/Windows;
+[`Happ`](https://www.happ.su) - IOS(+MacOS)/Android/Windows;\
+[`Hiddify`](https://hiddify.com/) - IOS/Android/Windows;
