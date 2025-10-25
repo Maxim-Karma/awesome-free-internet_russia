@@ -1,6 +1,8 @@
 # **Будет добавляться и обновляться**
 В этом гайде/сборнике будут собраны почти все возможные варианты обхода блокировок в РФ.
-# Клиенты для подключения к впн/серверу;
+> [!IMPORTANT]
+> **Я НЕ ПРЕТЕНДУЮ НА АВТОРСТВО ДАННЫХ ПРИЛОЖЕНИЙ/PROXY/VPN/КЛИЕНТОВ!!!** Я просто нашёл их в разных уголках web'а и github'а, а затем собрал их в один лист! 
+# Клиенты для подключения к VPN/серверу/proxy;
 [`V2RayTun`](https://v2raytun.me/) -- IOS(+MacOS)/Android/Windows;\
 [`V2rayN`](https://v2rayn.xyz/), [`Nekoray`](https://nekoray.org)/[`Throne`](https://github.com/throneproj/Throne) -- Windows, MacOS/Linux, Windows;\
 [`V2rayNG`](https://github.com/2dust/v2rayNG), [`Nekobox`](https://getnekobox.com/) -- Android;\
@@ -13,12 +15,13 @@
 [`Proton-Vpn-free`](https://help-guide.notion.site/ProtonVPN-1f72684dab0d80b481bdfb1df9148e0c) -- Позволяет использовать бесплатные/платные сервера Proton в других приложениях, генерируя конфиг для нужного клиент;\
 [`v4freedom`](https://v4freedom.com/) -- Бесплатный VPN, ни больше, ни меньше;\
 [`fptn.org`]( https://fptn.org/) -- Бесплатный, некоммерческий VPN;\
+[`zapret`](https://github.com/Flowseal/zapret-discord-youtube) -- Бесплатное приложение, позволяющее игнорировать блокировки;\
 ## Warp-генераторы;
 `Эти сайты позволяют создать warp.конфиг, который помогает игнорировать блокировки. Я оставлю их без описания, так как их функцию я описал только что, и смысла повторяться -- нет.`\
 [`https://config-generator-warp.vercel.app`](https://config-generator-warp.vercel.app)\
 [`https://warp-gen.vercel.app`](https://warp-gen.vercel.app)\
 [`https://warp.llimonix.pw`](https://warp.llimonix.pw)\
-[`https://warp-vless.vercel.app`](https://warp-vless.vercel.app)\
+[`https://warp-vless.vercel.app`](https://warp-vless.vercel.app)
 ## Телеграмм-боты;
 `Данные телеграмм-боты позволяют получить разные конфиги и ключи для подключения к VPN. Некоторые из них -- платные.`\
 [`@liberty_free_link_bot`](https://t.me/liberty_free_link_bot)\
