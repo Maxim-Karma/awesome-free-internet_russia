@@ -23,7 +23,7 @@
 [`https://warp.llimonix.pw`](https://warp.llimonix.pw)\
 [`https://warp-vless.vercel.app`](https://warp-vless.vercel.app)
 ## Телеграмм-боты;
-`Данные телеграмм-боты позволяют получить разные конфиги и ключи для подключения к VPN. Некоторые из них -- платные.`\
+`Данные телеграмм-боты позволяют получить разные конфиги и ключи для подключения к VPN. Некоторые из них платные.`\
 [`@liberty_free_link_bot`](https://t.me/liberty_free_link_bot)\
 [`@PrivioTech_bot`](https://t.me/PrivioTech_bot)\
 [`@LagomVPN_bot`](https://t.me/LagomVPN_bot) -- Есть платный тариф за 199 рублей месяц;\
