@@ -8,7 +8,8 @@
 [Непосредственно VPN'ы, конфиги, proxy;](#Непосредственно-VPNы-конфиги-proxy;)\
 	[Сайты/приложения;](#Сайты/приложения)\
 	[Warp-генераторы;](#Warp-генераторы)\
-	[Телеграмм-боты;](#Телеграмм-боты)
+	[Телеграмм-боты;](#Телеграмм-боты)\
+	[DNS;](#DNS)
 
 # Клиенты для подключения к VPN/серверу/proxy;
 [`V2RayTun`](https://v2raytun.me/) -- IOS(+MacOS)/Android/Windows;\
@@ -36,3 +37,6 @@
 [`@PrivioTech_bot`](https://t.me/PrivioTech_bot)\
 [`@LagomVPN_bot`](https://t.me/LagomVPN_bot) -- Есть платный тариф за 199 рублей месяц;\
 [`@hostvless_bot`](https://t.me/hostvless_bot) -- Платно, цена: 30 рублей;\
+## DNS
+`DNS-сервер, который помогает обойти блокировку.`
+[`dns.malw.link`](https://info.dns.malw.link/)
